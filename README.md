@@ -45,7 +45,7 @@ Change connection class information:
 ```bash
 
 # path
-lib/Database/Connection.php
+app/DataBase/Connection.php
 
 ```
 
